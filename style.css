@@ -163,7 +163,7 @@ nav .heading h1 {
     color: #D8D8D8;
     cursor: pointer;
    	display: inline-block;
-    font-size: 1.5em;
+    font-size: 1.1em;
     font-weight: 100;
    	min-width: 325px;
     padding: 10px;
@@ -309,7 +309,7 @@ nav .heading h1 {
     }
     nav ul {
     	flex-direction: column;
-    	font-size: 2.5rem;
+    	font-size: 2.1rem;
     	text-align: right;
     }
     nav ul li {
@@ -341,7 +341,8 @@ nav .heading h1 {
     	flex-direction: row; 
     }
     .bio-intro .snapshot {
-		margin-left: 2rem;
+        margin-left: 2rem;
+        display: none;
 	}
 	.bio-intro .snapshot h2 {
 		text-align: left;
